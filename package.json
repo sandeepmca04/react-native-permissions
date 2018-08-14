@@ -1,0 +1,47 @@
+{
+  "_from": "git+https://github.com/jigsawxyz/react-native-permissions.git",
+  "_id": "react-native-permissions@0.2.7",
+  "_inBundle": false,
+  "_location": "/react-native-permissions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-permissions@git+https://github.com/jigsawxyz/react-native-permissions.git",
+    "name": "react-native-permissions",
+    "escapedName": "react-native-permissions",
+    "rawSpec": "git+https://github.com/jigsawxyz/react-native-permissions.git",
+    "saveSpec": "git+https://github.com/jigsawxyz/react-native-permissions.git",
+    "fetchSpec": "https://github.com/jigsawxyz/react-native-permissions.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/jigsawxyz/react-native-permissions.git#2f9e02868d6f58e6cfb7d1ff186b8bbf3f1a5e57",
+  "_spec": "react-native-permissions@git+https://github.com/jigsawxyz/react-native-permissions.git",
+  "_where": "/Users/robert/IBM/livenation-mobileapp",
+  "author": {
+    "name": "Yonah Forst",
+    "email": "yonaforst@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/joshblour/react-native-permissions/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Check user permissions in React Native",
+  "homepage": "https://github.com/joshblour/react-native-permissions",
+  "keywords": [
+    "react-native",
+    "react-permissions",
+    "permissions"
+  ],
+  "license": "MIT",
+  "main": "ReactNativePermissions",
+  "name": "react-native-permissions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshblour/react-native-permissions.git"
+  },
+  "version": "0.2.7"
+}
