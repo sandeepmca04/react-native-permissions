@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/robert/.android/build-cache/2458e2a9b82f89891066798118d98123a2da6f8f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/robert/.android/build-cache/2458e2a9b82f89891066798118d98123a2da6f8f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/robert/.android/build-cache/2458e2a9b82f89891066798118d98123a2da6f8f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/robert/.android/build-cache/2458e2a9b82f89891066798118d98123a2da6f8f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

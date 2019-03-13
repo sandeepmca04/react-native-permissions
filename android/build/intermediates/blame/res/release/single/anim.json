@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/robert/.android/build-cache/4ce625a185ed99b22bb995214ec194557559e5a3/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/robert/.android/build-cache/4ce625a185ed99b22bb995214ec194557559e5a3/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/robert/.android/build-cache/4ce625a185ed99b22bb995214ec194557559e5a3/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/robert/.android/build-cache/4ce625a185ed99b22bb995214ec194557559e5a3/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/robert/.android/build-cache/4ce625a185ed99b22bb995214ec194557559e5a3/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/robert/.android/build-cache/4ce625a185ed99b22bb995214ec194557559e5a3/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/robert/IBM/livenation-mobileapp/node_modules/react-native-permissions/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/robert/.android/build-cache/0eb66b55bec9d1ff5c8b1245d421561057ffc129/output/res/anim/abc_fade_out.xml"
+    }
+]
