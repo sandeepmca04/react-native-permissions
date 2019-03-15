@@ -1,21 +1,23 @@
 {
-  "name": "RNPermissionsExample",
+  "name": "Example",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "clean:modules": "rm -rf node_modules/react-native-permissions/node_modules",
-    "clean:example": "rm -rf node_modules/react-native-permissions/example",
-    "start": "yarn clean:modules && yarn clean:example && node node_modules/react-native/local-cli/cli.js start"
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
   },
   "dependencies": {
-    "react": "16.6.3",
-    "react-native": "0.58.3",
-    "react-native-paper": "2.6.3",
-    "react-native-permissions": "../",
-    "react-native-vector-icons": "6.2.0"
+    "react": "16.0.0",
+    "react-native": "0.50.3",
+    "react-native-permissions": "../"
   },
   "devDependencies": {
-    "babel-core": "7.0.0-bridge.0",
-    "metro-react-native-babel-preset": "0.51.1"
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
   }
 }

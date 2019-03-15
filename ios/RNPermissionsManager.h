@@ -12,25 +12,25 @@ typedef enum {
 
 @optional
 
-+ (NSArray<NSString *> *)usageDescriptionKeys;
++ (NSArray<NSString *> * _Nullable)usageDescriptionKeys;
 
 @required
 
-- (void)checkWithResolver:(void (^)(RNPermissionStatus status))resolve
-             withRejecter:(void (^)(NSError *error))reject;
+- (void)checkWithResolver:(nullable void (^)(RNPermissionStatus status))resolve
+             withRejecter:(void (^ _Nullable)(NSError * _Nullable error))reject;
 
 - (void)requestWithOptions:(NSDictionary * _Nullable)options
-              withResolver:(void (^)(RNPermissionStatus status))resolve
-              withRejecter:(void (^)(NSError *error))reject;
+              withResolver:(nullable void (^)(RNPermissionStatus status))resolve
+              withRejecter:(void (^ _Nullable)(NSError * _Nullable error))reject;
 
 @end
 
 @interface RNPermissionsManager : NSObject <RCTBridgeModule>
 
-+ (bool)hasBackgroundModeEnabled:(NSString *)mode;
++ (bool)hasBackgroundModeEnabled:(nullable NSString *)mode;
 
-+ (void)logErrorMessage:(NSString *)message;
++ (void)logErrorMessage:(nullable NSString *)message;
 
-+ (bool)hasBeenRequestedOnce:(id<RNPermissionHandler>)handler;
++ (bool)hasBeenRequestedOnce:(nullable id<RNPermissionHandler>)handler;
 
 @end

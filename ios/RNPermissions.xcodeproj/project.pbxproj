@@ -10,6 +10,14 @@
 		66EEFEBE1F217A9E0021D48A /* RNPermissionsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 66EEFEBD1F217A9E0021D48A /* RNPermissionsManager.m */; };
 		66EEFEBF1F217A9E0021D48A /* RNPermissionsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 66EEFEBD1F217A9E0021D48A /* RNPermissionsManager.m */; };
 		DD4F8BE52200C51A009134C7 /* RCTConvert+RNPermission.m in Sources */ = {isa = PBXBuildFile; fileRef = DD4F8BE32200C51A009134C7 /* RCTConvert+RNPermission.m */; };
+		E19B5B31223B2F7D00085DFD /* RNPermissionHandlerLocationWhenInUse.h in Sources */ = {isa = PBXBuildFile; fileRef = E19B5B30223B2F7D00085DFD /* RNPermissionHandlerLocationWhenInUse.h */; };
+		E19B5B33223B2F8600085DFD /* RNPermissionHandlerNotifications.h in Sources */ = {isa = PBXBuildFile; fileRef = E19B5B32223B2F8600085DFD /* RNPermissionHandlerNotifications.h */; };
+		E19B5B35223B2F9E00085DFD /* RNPermissionHandlerBluetoothPeripheral.h in Sources */ = {isa = PBXBuildFile; fileRef = E19B5B34223B2F9E00085DFD /* RNPermissionHandlerBluetoothPeripheral.h */; };
+		E19B5B37223B2FB800085DFD /* RNPermissionHandlerLocationAlways.h in Sources */ = {isa = PBXBuildFile; fileRef = E19B5B36223B2FB800085DFD /* RNPermissionHandlerLocationAlways.h */; };
+		E1AD24ED223B2D0100AE5759 /* RNPermissionHandlerBluetoothPeripheral.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD24EC223B2D0000AE5759 /* RNPermissionHandlerBluetoothPeripheral.m */; };
+		E1AD24EF223B2D0800AE5759 /* RNPermissionHandlerLocationAlways.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD24EE223B2D0700AE5759 /* RNPermissionHandlerLocationAlways.m */; };
+		E1AD24F1223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD24F0223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m */; };
+		E1AD24F3223B2D1300AE5759 /* RNPermissionHandlerNotifications.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD24F2223B2D1300AE5759 /* RNPermissionHandlerNotifications.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,15 @@
 		66EEFEBD1F217A9E0021D48A /* RNPermissionsManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNPermissionsManager.m; sourceTree = "<group>"; };
 		DD4F8BE32200C51A009134C7 /* RCTConvert+RNPermission.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+RNPermission.m"; sourceTree = "<group>"; };
 		DD4F8BE42200C51A009134C7 /* RCTConvert+RNPermission.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "RCTConvert+RNPermission.h"; sourceTree = "<group>"; };
+		E19B5B30223B2F7D00085DFD /* RNPermissionHandlerLocationWhenInUse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPermissionHandlerLocationWhenInUse.h; sourceTree = "<group>"; };
+		E19B5B32223B2F8600085DFD /* RNPermissionHandlerNotifications.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPermissionHandlerNotifications.h; sourceTree = "<group>"; };
+		E19B5B34223B2F9E00085DFD /* RNPermissionHandlerBluetoothPeripheral.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPermissionHandlerBluetoothPeripheral.h; sourceTree = "<group>"; };
+		E19B5B36223B2FB800085DFD /* RNPermissionHandlerLocationAlways.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPermissionHandlerLocationAlways.h; sourceTree = "<group>"; };
+		E1AD24EB223B2CF200AE5759 /* PermissionHandlers */ = {isa = PBXFileReference; lastKnownFileType = folder; path = PermissionHandlers; sourceTree = "<group>"; };
+		E1AD24EC223B2D0000AE5759 /* RNPermissionHandlerBluetoothPeripheral.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerBluetoothPeripheral.m; sourceTree = "<group>"; };
+		E1AD24EE223B2D0700AE5759 /* RNPermissionHandlerLocationAlways.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerLocationAlways.m; sourceTree = "<group>"; };
+		E1AD24F0223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerLocationWhenInUse.m; sourceTree = "<group>"; };
+		E1AD24F2223B2D1300AE5759 /* RNPermissionHandlerNotifications.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerNotifications.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -33,10 +50,19 @@
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
+				E19B5B36223B2FB800085DFD /* RNPermissionHandlerLocationAlways.h */,
+				E19B5B34223B2F9E00085DFD /* RNPermissionHandlerBluetoothPeripheral.h */,
+				E19B5B32223B2F8600085DFD /* RNPermissionHandlerNotifications.h */,
+				E19B5B30223B2F7D00085DFD /* RNPermissionHandlerLocationWhenInUse.h */,
+				E1AD24F2223B2D1300AE5759 /* RNPermissionHandlerNotifications.m */,
+				E1AD24F0223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m */,
+				E1AD24EE223B2D0700AE5759 /* RNPermissionHandlerLocationAlways.m */,
+				E1AD24EC223B2D0000AE5759 /* RNPermissionHandlerBluetoothPeripheral.m */,
 				DD4F8BE42200C51A009134C7 /* RCTConvert+RNPermission.h */,
 				DD4F8BE32200C51A009134C7 /* RCTConvert+RNPermission.m */,
 				66EEFEBC1F217A9E0021D48A /* RNPermissionsManager.h */,
 				66EEFEBD1F217A9E0021D48A /* RNPermissionsManager.m */,
+				E1AD24EB223B2CF200AE5759 /* PermissionHandlers */,
 				134814211AA4EA7D00B7C361 /* Products */,
 				2D2A28471D9B043800D4039D /* libRNPermissions-tvOS.a */,
 			);
@@ -128,6 +154,14 @@
 			files = (
 				DD4F8BE52200C51A009134C7 /* RCTConvert+RNPermission.m in Sources */,
 				66EEFEBE1F217A9E0021D48A /* RNPermissionsManager.m in Sources */,
+				E19B5B35223B2F9E00085DFD /* RNPermissionHandlerBluetoothPeripheral.h in Sources */,
+				E1AD24ED223B2D0100AE5759 /* RNPermissionHandlerBluetoothPeripheral.m in Sources */,
+				E19B5B37223B2FB800085DFD /* RNPermissionHandlerLocationAlways.h in Sources */,
+				E1AD24EF223B2D0800AE5759 /* RNPermissionHandlerLocationAlways.m in Sources */,
+				E19B5B31223B2F7D00085DFD /* RNPermissionHandlerLocationWhenInUse.h in Sources */,
+				E1AD24F1223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m in Sources */,
+				E19B5B33223B2F8600085DFD /* RNPermissionHandlerNotifications.h in Sources */,
+				E1AD24F3223B2D1300AE5759 /* RNPermissionHandlerNotifications.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +293,7 @@
 		58B511F01A9E6C8500147676 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/node_modules/react-native-permissions/**";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -268,6 +303,7 @@
 		58B511F11A9E6C8500147676 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/node_modules/react-native-permissions/**";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";

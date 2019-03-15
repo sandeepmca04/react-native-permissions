@@ -147,6 +147,7 @@ async function internalRequest(
   const { notificationOptions, rationale } = config;
 
   if (Platform.OS !== "android") {
+    console.log("permission 2: ", permission)
     return RNPermissions.request(permission, { notificationOptions });
   }
 
