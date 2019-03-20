@@ -18,6 +18,8 @@
 		E1AD24EF223B2D0800AE5759 /* RNPermissionHandlerLocationAlways.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD24EE223B2D0700AE5759 /* RNPermissionHandlerLocationAlways.m */; };
 		E1AD24F1223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD24F0223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m */; };
 		E1AD24F3223B2D1300AE5759 /* RNPermissionHandlerNotifications.m in Sources */ = {isa = PBXBuildFile; fileRef = E1AD24F2223B2D1300AE5759 /* RNPermissionHandlerNotifications.m */; };
+		E1F986E322427DE500F1A61C /* RNPermissionHandlerMediaLibrary.m in Sources */ = {isa = PBXBuildFile; fileRef = E1F986E222427DE500F1A61C /* RNPermissionHandlerMediaLibrary.m */; };
+		E1F986E722427DFA00F1A61C /* RNPermissionHandlerMediaLibrary.h in Sources */ = {isa = PBXBuildFile; fileRef = E1F986E622427DFA00F1A61C /* RNPermissionHandlerMediaLibrary.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,9 @@
 		E1AD24EE223B2D0700AE5759 /* RNPermissionHandlerLocationAlways.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerLocationAlways.m; sourceTree = "<group>"; };
 		E1AD24F0223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerLocationWhenInUse.m; sourceTree = "<group>"; };
 		E1AD24F2223B2D1300AE5759 /* RNPermissionHandlerNotifications.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerNotifications.m; sourceTree = "<group>"; };
+		E1F986E222427DE500F1A61C /* RNPermissionHandlerMediaLibrary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPermissionHandlerMediaLibrary.m; sourceTree = "<group>"; };
+		E1F986E422427DEB00F1A61C /* RNPermissionHandlerMediaLibrary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = RNPermissionHandlerMediaLibrary.m; path = PermissionHandlers/MediaLibrary/RNPermissionHandlerMediaLibrary.m; sourceTree = "<group>"; };
+		E1F986E622427DFA00F1A61C /* RNPermissionHandlerMediaLibrary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPermissionHandlerMediaLibrary.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -50,6 +55,9 @@
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
+				E1F986E622427DFA00F1A61C /* RNPermissionHandlerMediaLibrary.h */,
+				E1F986E222427DE500F1A61C /* RNPermissionHandlerMediaLibrary.m */,
+				E1F986E422427DEB00F1A61C /* RNPermissionHandlerMediaLibrary.m */,
 				E19B5B36223B2FB800085DFD /* RNPermissionHandlerLocationAlways.h */,
 				E19B5B34223B2F9E00085DFD /* RNPermissionHandlerBluetoothPeripheral.h */,
 				E19B5B32223B2F8600085DFD /* RNPermissionHandlerNotifications.h */,
@@ -160,6 +168,8 @@
 				E1AD24EF223B2D0800AE5759 /* RNPermissionHandlerLocationAlways.m in Sources */,
 				E19B5B31223B2F7D00085DFD /* RNPermissionHandlerLocationWhenInUse.h in Sources */,
 				E1AD24F1223B2D0D00AE5759 /* RNPermissionHandlerLocationWhenInUse.m in Sources */,
+				E1F986E722427DFA00F1A61C /* RNPermissionHandlerMediaLibrary.h in Sources */,
+				E1F986E322427DE500F1A61C /* RNPermissionHandlerMediaLibrary.m in Sources */,
 				E19B5B33223B2F8600085DFD /* RNPermissionHandlerNotifications.h in Sources */,
 				E1AD24F3223B2D1300AE5759 /* RNPermissionHandlerNotifications.m in Sources */,
 			);
