@@ -204,7 +204,7 @@ async function internalRequestMultiple(
   return setRequestedPermissions(permissions).then(() => statuses);
 }
 
-export function openSettings(): Promise<boolean> {
+export function openSettings() {
   return RNPermissions.openSettings();
 }
 
